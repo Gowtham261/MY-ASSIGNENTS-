@@ -1,6 +1,0 @@
-C:\Users\sivagowthama\source\repos\postive\postive\bin\Release\postive.exe.config
-C:\Users\sivagowthama\source\repos\postive\postive\bin\Release\postive.exe
-C:\Users\sivagowthama\source\repos\postive\postive\bin\Release\postive.pdb
-C:\Users\sivagowthama\source\repos\postive\postive\obj\Release\postive.csproj.CoreCompileInputs.cache
-C:\Users\sivagowthama\source\repos\postive\postive\obj\Release\postive.exe
-C:\Users\sivagowthama\source\repos\postive\postive\obj\Release\postive.pdb

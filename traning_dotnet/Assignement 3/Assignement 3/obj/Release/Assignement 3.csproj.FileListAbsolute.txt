@@ -1,6 +1,0 @@
-C:\Users\sivagowthama\source\repos\Assignement 3\Assignement 3\obj\Release\Assignement 3.csproj.CoreCompileInputs.cache
-C:\Users\sivagowthama\source\repos\Assignement 3\Assignement 3\bin\Release\Assignement 3.exe.config
-C:\Users\sivagowthama\source\repos\Assignement 3\Assignement 3\bin\Release\Assignement 3.exe
-C:\Users\sivagowthama\source\repos\Assignement 3\Assignement 3\bin\Release\Assignement 3.pdb
-C:\Users\sivagowthama\source\repos\Assignement 3\Assignement 3\obj\Release\Assignement 3.exe
-C:\Users\sivagowthama\source\repos\Assignement 3\Assignement 3\obj\Release\Assignement 3.pdb
