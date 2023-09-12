@@ -1,0 +1,7 @@
+C:\Users\sivagowthama\source\repos\Code based test\Code based test\bin\Debug\Code based test.exe.config
+C:\Users\sivagowthama\source\repos\Code based test\Code based test\bin\Debug\Code based test.exe
+C:\Users\sivagowthama\source\repos\Code based test\Code based test\bin\Debug\Code based test.pdb
+C:\Users\sivagowthama\source\repos\Code based test\Code based test\obj\Debug\Code based test.csproj.AssemblyReference.cache
+C:\Users\sivagowthama\source\repos\Code based test\Code based test\obj\Debug\Code based test.csproj.CoreCompileInputs.cache
+C:\Users\sivagowthama\source\repos\Code based test\Code based test\obj\Debug\Code based test.exe
+C:\Users\sivagowthama\source\repos\Code based test\Code based test\obj\Debug\Code based test.pdb
