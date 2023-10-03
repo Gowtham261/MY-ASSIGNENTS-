@@ -1,0 +1,7 @@
+C:\Users\sivagowthama\source\repos\CS3and4\CS3and4\bin\Debug\CS3and4.exe.config
+C:\Users\sivagowthama\source\repos\CS3and4\CS3and4\bin\Debug\CS3and4.exe
+C:\Users\sivagowthama\source\repos\CS3and4\CS3and4\bin\Debug\CS3and4.pdb
+C:\Users\sivagowthama\source\repos\CS3and4\CS3and4\obj\Debug\CS3and4.csproj.AssemblyReference.cache
+C:\Users\sivagowthama\source\repos\CS3and4\CS3and4\obj\Debug\CS3and4.csproj.CoreCompileInputs.cache
+C:\Users\sivagowthama\source\repos\CS3and4\CS3and4\obj\Debug\CS3and4.exe
+C:\Users\sivagowthama\source\repos\CS3and4\CS3and4\obj\Debug\CS3and4.pdb
