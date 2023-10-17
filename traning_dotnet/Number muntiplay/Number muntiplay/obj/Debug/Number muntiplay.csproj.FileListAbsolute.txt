@@ -1,6 +1,0 @@
-C:\Users\sivagowthama\source\repos\Number muntiplay\Number muntiplay\bin\Debug\Number muntiplay.exe.config
-C:\Users\sivagowthama\source\repos\Number muntiplay\Number muntiplay\bin\Debug\Number muntiplay.exe
-C:\Users\sivagowthama\source\repos\Number muntiplay\Number muntiplay\bin\Debug\Number muntiplay.pdb
-C:\Users\sivagowthama\source\repos\Number muntiplay\Number muntiplay\obj\Debug\Number muntiplay.csproj.CoreCompileInputs.cache
-C:\Users\sivagowthama\source\repos\Number muntiplay\Number muntiplay\obj\Debug\Number muntiplay.exe
-C:\Users\sivagowthama\source\repos\Number muntiplay\Number muntiplay\obj\Debug\Number muntiplay.pdb

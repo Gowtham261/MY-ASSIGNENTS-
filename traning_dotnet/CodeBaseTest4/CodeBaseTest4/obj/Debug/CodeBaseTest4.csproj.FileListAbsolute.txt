@@ -1,7 +1,0 @@
-C:\Users\sivagowthama\source\repos\CodeBaseTest4\CodeBaseTest4\bin\Debug\CodeBaseTest4.exe.config
-C:\Users\sivagowthama\source\repos\CodeBaseTest4\CodeBaseTest4\bin\Debug\CodeBaseTest4.exe
-C:\Users\sivagowthama\source\repos\CodeBaseTest4\CodeBaseTest4\bin\Debug\CodeBaseTest4.pdb
-C:\Users\sivagowthama\source\repos\CodeBaseTest4\CodeBaseTest4\obj\Debug\CodeBaseTest4.csproj.AssemblyReference.cache
-C:\Users\sivagowthama\source\repos\CodeBaseTest4\CodeBaseTest4\obj\Debug\CodeBaseTest4.csproj.CoreCompileInputs.cache
-C:\Users\sivagowthama\source\repos\CodeBaseTest4\CodeBaseTest4\obj\Debug\CodeBaseTest4.exe
-C:\Users\sivagowthama\source\repos\CodeBaseTest4\CodeBaseTest4\obj\Debug\CodeBaseTest4.pdb

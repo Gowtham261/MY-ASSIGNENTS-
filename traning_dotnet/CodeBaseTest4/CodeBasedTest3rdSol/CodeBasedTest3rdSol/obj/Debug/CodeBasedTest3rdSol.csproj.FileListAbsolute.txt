@@ -1,7 +1,0 @@
-C:\Users\sivagowthama\source\repos\CodeBasedTest3rdSol\CodeBasedTest3rdSol\bin\Debug\CodeBasedTest3rdSol.exe.config
-C:\Users\sivagowthama\source\repos\CodeBasedTest3rdSol\CodeBasedTest3rdSol\bin\Debug\CodeBasedTest3rdSol.exe
-C:\Users\sivagowthama\source\repos\CodeBasedTest3rdSol\CodeBasedTest3rdSol\bin\Debug\CodeBasedTest3rdSol.pdb
-C:\Users\sivagowthama\source\repos\CodeBasedTest3rdSol\CodeBasedTest3rdSol\obj\Debug\CodeBasedTest3rdSol.csproj.AssemblyReference.cache
-C:\Users\sivagowthama\source\repos\CodeBasedTest3rdSol\CodeBasedTest3rdSol\obj\Debug\CodeBasedTest3rdSol.csproj.CoreCompileInputs.cache
-C:\Users\sivagowthama\source\repos\CodeBasedTest3rdSol\CodeBasedTest3rdSol\obj\Debug\CodeBasedTest3rdSol.exe
-C:\Users\sivagowthama\source\repos\CodeBasedTest3rdSol\CodeBasedTest3rdSol\obj\Debug\CodeBasedTest3rdSol.pdb

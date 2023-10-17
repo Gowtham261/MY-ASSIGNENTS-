@@ -1,0 +1,6 @@
+C:\Users\sivagowthama\source\repos\CodeBasedTest2ndSol\CodeBasedTest2ndSol\obj\Debug\CodeBasedTest2ndSol.csproj.CoreCompileInputs.cache
+C:\Users\sivagowthama\source\repos\CodeBasedTest2ndSol\CodeBasedTest2ndSol\bin\Debug\CodeBasedTest2ndSol.exe.config
+C:\Users\sivagowthama\source\repos\CodeBasedTest2ndSol\CodeBasedTest2ndSol\bin\Debug\CodeBasedTest2ndSol.exe
+C:\Users\sivagowthama\source\repos\CodeBasedTest2ndSol\CodeBasedTest2ndSol\bin\Debug\CodeBasedTest2ndSol.pdb
+C:\Users\sivagowthama\source\repos\CodeBasedTest2ndSol\CodeBasedTest2ndSol\obj\Debug\CodeBasedTest2ndSol.exe
+C:\Users\sivagowthama\source\repos\CodeBasedTest2ndSol\CodeBasedTest2ndSol\obj\Debug\CodeBasedTest2ndSol.pdb
