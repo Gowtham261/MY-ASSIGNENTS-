@@ -1,0 +1,2 @@
+C:\Users\sivagowthama\source\repos\CaseStudy5\CaseStudy5\obj\Debug\CaseStudy5.csproj.AssemblyReference.cache
+C:\Users\sivagowthama\source\repos\CaseStudy5\CaseStudy5\obj\Debug\CaseStudy5.csproj.CoreCompileInputs.cache
