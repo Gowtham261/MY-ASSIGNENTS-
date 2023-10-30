@@ -1,0 +1,28 @@
+﻿<!DOCTYPE html>
+
+<html lang="en" xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <meta charset="utf-8" />
+    <title>Odd or even</title>
+</head>
+<body>
+    <h2>Loop to  check odd or even</h2>
+    <p>results:</p>
+    <u1 id=" result output"</u1>
+    <script>
+        var resultsList = document.getElementById("resultsList");
+        for (var i = 0; i <= 15; i++)
+        {
+            var li = document.createElement("li");
+            if (i % 2 === 0)
+            {
+                li.textContent = i + " is even.";
+            } else
+            {
+                li.textContent = i + " is odd.";
+            }
+            resultsList.appendChild(li);
+        }
+    </script>
+</body>
+</html>
