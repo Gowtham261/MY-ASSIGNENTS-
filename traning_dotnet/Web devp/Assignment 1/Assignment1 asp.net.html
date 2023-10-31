@@ -1,0 +1,50 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <title>Everything avalible</title>
+    </head>
+<body>
+    <h1>Store Items</h1>
+    <select id="itemDropdown">
+        <option value="Bmw">Bmw</option>
+        <option value="Bugati">Bugati</option>
+        <option value="Benz">Benz</option>
+    </select>
+    <img id="itemImage" src="bmw.jpg" alt="Item Image">
+    <button id="showCostButton">Here is the Cost</button>
+    <label id="costLabel"></label>
+    <script>
+        const itemDropdown = document.getElementById("itemDropdown");
+        const itemImage = document.getElementById("itemImage");
+        const showCostButton = document.getElementById("showCostButton");
+        const costLabel = document.getElementById("costLabel");
+        const itemImages = {
+            automobiles: "Images/Bmw.jpg",
+            mobiles: "Images/Bugati.jpg",
+            stationary: "Images/Benz.jpg"
+        };
+        itemDropdown.addEventListener("change", function () {
+            const selectedValue = itemDropdown.value;
+            itemImage.src = itemImages[selectedValue];
+        });
+        showCostButton.addEventListener("click", function () {
+            const selectedValue = itemDropdown.value;
+            let cost = "";
+            switch (selectedValue) {
+                case "Bmw":
+                    cost = "80000";
+                    break;
+                case "Bugati":
+                    cost = "20000";
+                    break;
+                case "Benz":
+                    cost = "100";
+                    break;
+                default:
+                    cost = "N/A";
+            }
+            costLabel.textContent = "Cost: " + cost;
+        });
+    </script>
+</body>
+</html>
