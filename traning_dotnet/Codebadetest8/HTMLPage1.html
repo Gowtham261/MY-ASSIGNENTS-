@@ -1,0 +1,40 @@
+﻿<!DOCTYPE html>
+
+<html lang="en" xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <meta charset="utf-8" />
+    <title></title>
+</head>
+<body>
+    @*CustomersInGermany.cshtml*@
+    @model List<Customer>
+        <h2>Customers In Germany</h2>
+        <table>
+            <tr>
+                <th>
+                    Customer ID
+                </th>
+                <th>
+                    Company Name
+                </th>
+                <th>
+                    CustomerName
+                </th>
+            </tr>
+            @foreach(var customer in Model)
+            {
+            <tr>
+                <td>
+                    @customer.CustomerID
+                </td>
+                <td>
+                    @customer.CompanyName
+                </td>
+                <td>
+                    @customer.CustomerName
+                </td>
+            </tr>
+            }
+        </table>
+</body>
+</html>
